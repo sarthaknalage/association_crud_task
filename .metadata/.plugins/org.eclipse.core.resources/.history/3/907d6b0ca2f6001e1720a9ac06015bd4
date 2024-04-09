@@ -1,0 +1,5 @@
+package com.sarthak.task.crud.association.entity;
+
+public class User {
+
+}

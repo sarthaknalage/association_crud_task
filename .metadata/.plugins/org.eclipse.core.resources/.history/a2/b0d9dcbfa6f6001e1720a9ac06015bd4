@@ -1,0 +1,7 @@
+package com.sarthak.task.crud.association.entity;
+
+// This model purpose is only to map the data coming from consumer side i.e frontend
+// to make proper division so that we can map it as into User and UserDetails
+public class MappingModel {
+
+}

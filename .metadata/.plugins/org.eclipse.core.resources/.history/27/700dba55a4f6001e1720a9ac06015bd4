@@ -1,0 +1,8 @@
+package com.sarthak.task.crud.association.crudService;
+
+import com.sarthak.task.crud.association.entity.User;
+
+public interface InterServiceUserCrud {
+	
+	public User saveUserWithDetails(User user);
+}
